@@ -2,7 +2,9 @@
   "name": "chat_app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://github.com/M-Gadd/chatApp_React.git",
   "dependencies": {
+    "@pusher/chatkit-client": "^1.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
